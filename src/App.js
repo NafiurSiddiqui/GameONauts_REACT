@@ -1,10 +1,11 @@
 import './App.css';
+import Nav from './components/Nav';
 
 function App() {
   return (
    <>
-    <nav></nav>
-   <main></main>
+    <Nav/>
+   {/* router components here */}
    </>
   );
 }
