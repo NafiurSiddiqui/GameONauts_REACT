@@ -17,6 +17,13 @@ function Nav(){
             store
         </li>
     </ul>
+
+    <div className="nav-UI">
+        {/* wishlist */}
+        {/* cart */}
+    </div>
+
+    
  </nav>
 )
 };
