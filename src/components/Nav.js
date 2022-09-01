@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 function Nav(){
  return (
  <nav>
@@ -5,10 +7,10 @@ function Nav(){
 
     <ul>
         <li>
-            Home
+           <Link to={'./Pages/Home.js'}> Home </Link> 
         </li>
         <li>
-            Explore
+        <Link to={'./Pages/Explore.js'}> Explore</Link> 
         </li>
         <li>
             on-sale
