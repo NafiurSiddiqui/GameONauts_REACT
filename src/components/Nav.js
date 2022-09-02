@@ -13,7 +13,7 @@ function Nav(){
         <Link to={'./Pages/Explore.js'}> Explore</Link> 
         </li>
         <li>
-            on-sale
+        <Link to={'./Pages/On-sale.js'}> On-Sale</Link> 
         </li>
         <li>
             store
