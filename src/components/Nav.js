@@ -16,7 +16,7 @@ function Nav(){
         <Link to={'./Pages/On-sale.js'}> On-Sale</Link> 
         </li>
         <li>
-            store
+        <Link to={'./Pages/Store.js'}> Store </Link> 
         </li>
     </ul>
 
