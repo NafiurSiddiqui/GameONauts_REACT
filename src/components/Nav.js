@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import Button from './Btn';
 
 function Nav(){
  return (
@@ -20,12 +21,14 @@ function Nav(){
         </li>
     </ul>
 
-    <div className="nav-UI">
+    <div className="nav-userBtns">
         {/* wishlist */}
         {/* cart */}
     </div>
 
-    
+    <Button>
+        Log in
+    </Button>
  </nav>
 )
 };
