@@ -14,6 +14,12 @@ function UserProfile(){
          <span className="userProfile-navbar__link-lt-icon" > My Profile </span>
          
       </li>
+      <li className="userProfile-navBar__link" >
+         <span className="userProfile-navbar__link-lt-icon" > &lt; </span>
+
+         <span className="userProfile-navbar__link-lt-icon" > Transactions </span>
+         
+      </li>
     </ul>
     <BgSvg/>
 
