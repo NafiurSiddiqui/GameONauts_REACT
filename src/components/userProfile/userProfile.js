@@ -20,6 +20,18 @@ function UserProfile(){
          <span className="userProfile-navbar__link-lt-icon" > Transactions </span>
          
       </li>
+      <li className="userProfile-navBar__link" >
+         <span className="userProfile-navbar__link-lt-icon" > &lt; </span>
+
+         <span className="userProfile-navbar__link-lt-icon" > Account Settings </span>
+         
+      </li>
+      <li className="userProfile-navBar__link" >
+         <span className="userProfile-navbar__link-lt-icon" > &lt; </span>
+
+         <span className="userProfile-navbar__link-lt-icon" > Set Status</span>
+         
+      </li>
     </ul>
     <BgSvg/>
 
