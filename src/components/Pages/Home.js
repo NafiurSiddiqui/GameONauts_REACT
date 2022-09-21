@@ -1,3 +1,6 @@
+// https://blog.logrocket.com/progressive-image-loading-react-tutorial/
+
+
 function Home(){
  return (
  <>
@@ -7,6 +10,9 @@ function Home(){
 
         <div className="home_imageCarousel-images">
 
+                <picture>
+
+                </picture>
 
         </div>
 
@@ -15,7 +21,7 @@ function Home(){
     <article className="home_textCarousel">
 
         <div className="home_textCarousel-texts">
-
+            
 
         </div>
 
