@@ -1,4 +1,4 @@
-import BgSvg from "./svgs/BgSvg";
+import BgSvg from "../svgs/Bg-Svg";
 
 function UserProfile(){
 
