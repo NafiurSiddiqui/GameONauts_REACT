@@ -1,5 +1,5 @@
 
-import Nav from './components/Nav';
+import Nav from './components/Navbar/Nav';
 import UserProfile from './components/userProfile/userProfile';
 
 function App() {
