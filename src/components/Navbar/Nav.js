@@ -4,7 +4,7 @@ import Button from '../Elements/Btn';
 function Nav() {
 	return (
 		<nav>
-			<img src="../assets/Logo.png" alt="Logo" />
+			<img src={require("../../assets/Logo.png")} alt="Logo" />
 
 			<ul>
 				<li>
