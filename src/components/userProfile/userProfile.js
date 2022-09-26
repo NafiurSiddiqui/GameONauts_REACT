@@ -1,3 +1,4 @@
+import Button from '../Elements/Btn';
 import BgSvg from '../svgs/Bg-Svg';
 import CartIcon from '../svgs/Cart-Svg';
 import CoinSvg from '../svgs/Coin-Svg';
@@ -53,6 +54,8 @@ function UserProfile() {
 				
 			</div>
 			<BgSvg />
+
+			<Button>Log Out</Button>
 		</div>
 	);
 }
