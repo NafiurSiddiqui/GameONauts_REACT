@@ -1,11 +1,11 @@
 import Button from '../Elements/Btn';
-import BgSvg from '../svgs/Bg-Svg';
-import CartIcon from '../svgs/Cart-Svg';
-import CoinSvg from '../svgs/Coin-Svg';
-import NotificationIcon from '../svgs/Notification-Svg';
-import WishListIcon from '../svgs/Wishlist-SVG';
+import BgSvg from '../svgs/userProfile-nav/Bg-Svg';
+import CartIcon from '../svgs/userProfile-nav/Cart-Svg';
+import CoinSvg from '../svgs/userProfile-nav/Coin-Svg';
+import NotificationIcon from '../svgs/userProfile-nav/Notification-Svg';
+import WishListIcon from '../svgs/userProfile-nav/Wishlist-SVG';
 
-function UserProfile() {
+function UserNav() {
 	return (
 		<div className="userProfile-sideBar">
 			<span className="userProfile-sideBar__userName">userName</span>
@@ -59,4 +59,4 @@ function UserProfile() {
 		</div>
 	);
 }
-export default UserProfile;
+export default UserNav;
