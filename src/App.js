@@ -1,13 +1,14 @@
 
 import Nav from './components/Navbar/Nav';
-import UserProfile from './components/userProfile/userProfile';
+import UserNav from './components/user/userNav';
 
 function App() {
   return (
-   <>
+    <>
     <Nav/>
    {/* router components here */}
-   <UserProfile/>
+    <UserNav/>
+   
    </>
   );
 }
