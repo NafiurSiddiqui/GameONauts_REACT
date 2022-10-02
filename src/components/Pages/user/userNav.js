@@ -1,9 +1,9 @@
-import Button from '../Elements/Btn';
-import BgSvg from '../svgs/userProfile-nav/Bg-Svg';
-import CartIcon from '../svgs/userProfile-nav/Cart-Svg';
-import CoinSvg from '../svgs/userProfile-nav/Coin-Svg';
-import NotificationIcon from '../svgs/userProfile-nav/Notification-Svg';
-import WishListIcon from '../svgs/userProfile-nav/Wishlist-SVG';
+import Button from '../../Elements/Btn';
+import BgSvg from '../../svgs/userProfile-nav/Bg-Svg';
+import CartIcon from '../../svgs/userProfile-nav/Cart-Svg';
+import CoinSvg from '../../svgs/userProfile-nav/Coin-Svg';
+import NotificationIcon from '../../svgs/userProfile-nav/Notification-Svg';
+import WishListIcon from '../../svgs/userProfile-nav/Wishlist-SVG';
 
 function UserNav() {
 	return (
