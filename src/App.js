@@ -1,6 +1,6 @@
 
 import Nav from './components/Navbar/Nav';
-import UserNav from './components/user/userNav';
+import UserNav from './components/Pages/user/userNav';
 
 function App() {
   return (
