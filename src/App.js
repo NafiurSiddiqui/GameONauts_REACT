@@ -1,14 +1,12 @@
 
+import Display from './components/Elements/Display';
 import Nav from './components/Navbar/Nav';
-import UserNav from './components/Pages/user/userNav';
 
 function App() {
   return (
     <>
     <Nav/>
-   {/* router components here */}
-    <UserNav/>
-   
+    <Display/>
    </>
   );
 }
