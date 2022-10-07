@@ -1,11 +1,11 @@
-function Modal(){
+function Modal(props){
 
  return (
  <div className="modal-backdrop" >
 
-    <article className="modal-container" >
+    <div className={`modal ${props.className}`}>
 
-    </article>
+    </div>
 
  </div>
 )
